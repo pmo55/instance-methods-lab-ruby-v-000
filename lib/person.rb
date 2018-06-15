@@ -3,5 +3,5 @@ class Person
     puts "Hello World!"
   end
   def walks
-    puts " I am walking"
+    puts "The Person is walking"
 end
